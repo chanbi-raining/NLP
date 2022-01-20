@@ -1,2 +1,2 @@
-# siamese_network_nlp
-NLP projects using siamese neural network
+# NLP
+A repository for NLP projects
